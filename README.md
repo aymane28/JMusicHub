@@ -45,6 +45,19 @@ Api :
    https://age-of-empires-2-api.herokuapp.com/docs/
 
   
+   
+         # Activity : Afficher le contenu de About 
+ <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
+    
+    
+         ## Push Notification 
+ <a href="assets/notification.png"><img src="assets/notification.png" width="200" /><a>
+    
+    
+             ### Base de données Firebase 
+ <a href="assets/firebase.png"><img src="assets/firebase.png" width="600" /><a>
+    
+    
    Activity : Connexion & Inscription 
  <a href="assets/login.png"><img src="assets/login.png" width="200" /><a>
  <a href="assets/Register.png"> <img src="assets/Register.png" width="200" /><a>
@@ -67,16 +80,7 @@ Api :
   
    
    
-      # Activity : Afficher le contenu de About 
- <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
-    
-    
-         ## Push Notification 
- <a href="assets/notification.png"><img src="assets/notification.png" width="200" /><a>
-    
-    
-             ### Base de données Firebase 
- <a href="assets/firebase.png"><img src="assets/firebase.png" width="600" /><a>
+
   
    
     
