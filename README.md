@@ -45,7 +45,7 @@ Api :
    https://age-of-empires-2-api.herokuapp.com/docs/
 
   
-  ## Activity : Connexion & Inscription 
+   Activity : Connexion & Inscription 
  <a href="assets/login.png"><img src="assets/login.png" width="200" /><a>
  <a href="assets/Register.png"> <img src="assets/Register.png" width="200" /><a>
 
