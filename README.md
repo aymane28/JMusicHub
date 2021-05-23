@@ -41,7 +41,7 @@ AgeOfEmpire est une application Android développée en Kotlin. Une application 
 - Design compatible avec le thème des Empires.
 
 
-<h4> Api :
+Api :
    https://age-of-empires-2-api.herokuapp.com/docs/
 
   
@@ -67,7 +67,7 @@ AgeOfEmpire est une application Android développée en Kotlin. Une application 
   
    
    
-       ## Activity : Afficher le contenu de About 
+      # Activity : Afficher le contenu de About 
  <a href="assets/about.png"><img src="assets/about.png" width="200" /><a>
     
     
