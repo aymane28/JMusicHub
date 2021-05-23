@@ -75,7 +75,7 @@ AgeOfEmpire est une application Android développée en Kotlin. Une application 
  <a href="assets/notification.png"><img src="assets/notification.png" width="200" /><a>
     
     
-             ## Base de données Firebase 
+             ### Base de données Firebase 
  <a href="assets/firebase.png"><img src="assets/firebase.png" width="600" /><a>
   
    
